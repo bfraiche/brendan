@@ -2,4 +2,15 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- I am a Data Scientist in Washington, DC
+- [I tweet](https://twitter.com/NotFakeBrendan){target="_blank"}
+- I like to program in R but I live in Python world
+- I host a podcast where I interview people I find interesting, [The Avocado Toast Career Show](https://soundcloud.com/theworkforceshow/the-workforce-show-shana){target="_blank"}
+- I attend great local meetups, [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, Transportation Techies, and Code and Coffee
+- [I love to volunteering with the DCRCC](http://dcrcc.org/){target="_blank"}. I advocate for the [Stop Police Terror Project](https://www.sptdc.com/){target="_blank"} in order to use alternatives to violent policing through local policy changes. I have also been [busy canvasing and phone banking](http://www.vote.org){target="_blank"} for progressive candidates
+- [I like to backpack around different countries](https://www.mytravelmap.xyz/u/tw732217484972048384){target="_blank"}
+- [I write stuff about data science sometimes](https://www.usermuse.com/blog/good-data-scientist-think-like-product-team/){target="_blank"}
+- Music is really important to me. Playing music, listening to music, and seeing music played live 
+- I am a fan of the New York Football Giants but I also love the NBA
+- I like economics and I occasionally even read
+- I live in Washington, DC with my girlfriend and our plants

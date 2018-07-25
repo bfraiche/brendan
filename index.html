@@ -207,10 +207,10 @@ $(document).ready(function () {
 </div>
 
 
+<p>Created with RMarkdown</p>
 <p><strong>Look at how cool this plot is!</strong></p>
 <p><span class="math display">\[Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3\]</span></p>
-<p>{r, echo = FALSE, fig.align=‘center’} library(tidyverse) cool_function &lt;- function(x, alpha) return(sin(alpha<em>x)) xs &lt;- seq(0, pi</em>1.5, 0.005) ys &lt;- cool_function(xs, 1) results &lt;- data_frame(xs, ys, alpha = “1”) for(alpha in seq(0,3, 0.1)){ results &lt;- results %&gt;% bind_rows(data_frame( xs, ys = cool_function(xs, alpha), alpha = as.character(alpha) )) }</p>
-<p>ggplot(results, aes(x = xs, y = ys, color = alpha)) + geom_line() + theme_bw() + theme(legend.position=“none”)</p>
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" width="672" style="display: block; margin: auto;" /></p>
 
 
 
