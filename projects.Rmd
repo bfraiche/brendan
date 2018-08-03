@@ -4,10 +4,11 @@ title: "Projects"
 
 UNDER CONSTRUCTION
 
-### [MPD Stop and Frisk Analysis](http://rpubs.com/bfreehart/stopandfriskmap){target="_blank"}
+### [MPD Stop and Frisk Analysis](https://bfraiche.github.io/sptp/){target="_blank"}
 
-- IN PROGRESS
-- Analysis of 7 years of stop and frisk data from MPD
+- Analysis of public data from DC Metro Police Department
+- Uses several vizualization techniques
+- Geotagged data to show a heatmap using leaflet
 
 ### [Parking Dirty Computer Vision](http://parkingdirty.com/){target="_blank"}
 
