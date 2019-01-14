@@ -2,14 +2,13 @@
 title: "Projects"
 ---
 
-UNDER CONSTRUCTION
+### Using Computer Vision to Detect Blocked Bike Lanes
+
+- Presented at [Bike Hack Night X](https://www.meetup.com/Transportation-Techies/events/256991003/){target="_blank"}
+- [Presentation here](https://bit.ly/predictingdirty){target="_blank"}
+- Ongoing collboration [here (checkout the notebook and then fork my project)](https://github.com/bfraiche/parkingdirty){target="_blank"}
 
 ### [MPD Stop and Frisk Analysis](https://bfraiche.github.io/sptp/){target="_blank"}
 
 - Analysis of public data from DC Metro Police Department
-- Uses several vizualization techniques
-- Geotagged data to show a heatmap using leaflet
-
-### [Parking Dirty Computer Vision](http://parkingdirty.com/){target="_blank"}
-
-- IN PROGRESS
+- [Someone did a really excellent job of this analysis here](https://gwarrenn.github.io/Stop-and-Frisk-DC/){target="_blank"}
