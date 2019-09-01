@@ -2,12 +2,15 @@
 title: "About Me"
 ---
 
-- I am a Data Scientist
-- [I tweet](https://twitter.com/NotFakeBrendan){target="_blank"}
-- I code in Python and R
-- I attend local meetups: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, Transportation Techies, and Code and Coffee
-- [I volunteer with the DCRCC](http://dcrcc.org/){target="_blank"}
-- [I backpack](https://www.mytravelmap.xyz/u/tw732217484972048384){target="_blank"}
-- [I write stuff about data science sometimes](https://www.usermuse.com/blog/good-data-scientist-think-like-product-team/){target="_blank"}
-- [I collect punk and hardcore records](https://www.discogs.com/user/bfreehart/collection){target="_blank"}. I also play music sometimes
-- I live in Washington, DC with my girlfriend and our plants
+- I am a data engineer.
+- Libra☀️/Pisces🌑/Gemini⬆.
+- I live in Washington, DC with my fiance and our plants.
+- [I tweet.](https://twitter.com/NotFakeBrendan){target="_blank"}
+- I code mostly in Python... formerly R.
+- [I write stuff about data science sometimes.](https://www.silect.is/blog/2019/4/2/random-forest-in-spark-ml){target="_blank"}
+- I frequent local meetups: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, and Transportation Techies.
+- [I organize with Sack Jack.](http://SackJack.org){target="_blank"}
+- [I volunteer with the DCRCC.](http://dcrcc.org/){target="_blank"}
+- [I backpack.](https://www.mytravelmap.xyz/u/tw732217484972048384){target="_blank"}
+- [I collect punk records.](https://www.discogs.com/user/bfreehart/collection){target="_blank"}. I also play music sometimes.
+- [You can also find me on LinkedIn.](http://linkedin.com/in/bfreehart){target="_blank"}

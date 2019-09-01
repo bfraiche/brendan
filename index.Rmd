@@ -1,30 +1,14 @@
 ---
-title: "Brendan's Website"
+title: "Projects"
 ---
 
-Created with RMarkdown
+### Safe Lane
 
-__Look at how cool this plot is!__
+- Co-creator of [Safe Lane](https://github.com/danbernstein/safe-lane){target="_blank"}, an app that uses deep learning and public traffic camera feeds to make biking safer.
+- [Safe Lane awarded prize money as a semi-finalist in the DCx challenge.](https://www.herox.com/DCx/update/2857){target="_blank"}
+- First presented at [Bike Hack Night X.](https://www.meetup.com/Transportation-Techies/events/256991003/){target="_blank"} [Presentation here.](https://bit.ly/predictingdirty){target="_blank"}
 
-$$Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3$$
+### [MPD Stop and Frisk Analysis](https://bfraiche.github.io/sptp/){target="_blank"}
 
-```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, paged.print=FALSE}
-library(tidyverse)
-cool_function <- function(x, alpha) return(sin(alpha*x))
-xs <- seq(0, pi*1.5, 0.005)
-ys <- cool_function(xs, 1)
-results <- data_frame(xs, ys, alpha = "1")
-for(alpha in seq(0,3, 0.1)){
-  results <- results %>% 
-    bind_rows(data_frame(
-      xs, 
-      ys = cool_function(xs, alpha),
-      alpha = as.character(alpha)
-    ))
-}
-
-ggplot(results, aes(x = xs, y = ys, color = alpha)) + 
-  geom_line() + 
-  theme_bw() + 
-  theme(legend.position="none")
-```
+- High level analysis of DC's MPD stop and frisk practices. Still not certain why there no Ward 8.
+- [Someone else did a really excellent job diving into this date here](https://gwarrenn.github.io/Stop-and-Frisk-DC/){target="_blank"}
