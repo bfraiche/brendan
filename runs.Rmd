@@ -1,0 +1,14 @@
+---
+title: "Running Routes"
+---
+
+- [2 Miles Easy](https://www.gmap-pedometer.com/?r=7372975){target="_blank"}
+- [3 Miles Tempo](https://www.gmap-pedometer.com/?r=7348554){target="_blank"}
+- [4 Miles Easy](https://www.gmap-pedometer.com/?r=7348570){target="_blank"}
+- [4 Miles Tempo](https://www.gmap-pedometer.com/?r=7348610){target="_blank"}
+- [5 Miles Easy](https://www.gmap-pedometer.com/?r=7348298){target="_blank"}
+- [5 Miles Temp](https://www.gmap-pedometer.com/?r=7348611){target="_blank"}
+- [7 Mile Long 1](https://www.gmap-pedometer.com/?r=7348572){target="_blank"}
+- [7 Mile Long 2](https://www.gmap-pedometer.com/?r=7348606){target="_blank"}
+- [9 Mile Long](https://www.gmap-pedometer.com/?r=7348616){target="_blank"}
+- [10 Mile Long](https://www.gmap-pedometer.com/?r=7348613){target="_blank"}
