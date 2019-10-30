@@ -2,14 +2,13 @@
 title: "About Me"
 ---
 
-- I am a data engineer.
+- I am a data engineer at [Silectis.](https://www.silect.is/){target="_blank"}
 - Libra☀️/Pisces🌑/Gemini⬆.
 - I live in Washington, DC with my fiance and our plants.
 - [I tweet.](https://twitter.com/NotFakeBrendan){target="_blank"}
-- I code mostly in Python... formerly R.
+- I code in Python and R.
 - [I write stuff about data science sometimes.](https://www.silect.is/blog/2019/4/2/random-forest-in-spark-ml){target="_blank"}
-- I frequent local meetups: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, and Transportation Techies.
-- [I organize with Sack Jack.](http://SackJack.org){target="_blank"}
+- I frequent local meetups: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, and [Transportation Techies.](https://www.meetup.com/Transportation-Techies/){target="_blank"}
 - [I volunteer with the DCRCC.](http://dcrcc.org/){target="_blank"}
 - [I backpack.](https://www.mytravelmap.xyz/u/tw732217484972048384){target="_blank"}
 - [I collect punk records.](https://www.discogs.com/user/bfreehart/collection){target="_blank"}. I also play music sometimes.

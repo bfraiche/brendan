@@ -4,11 +4,15 @@ title: "Projects"
 
 ### Safe Lane
 
-- Co-creator of [Safe Lane](https://github.com/danbernstein/safe-lane){target="_blank"}, an app that uses deep learning and public traffic camera feeds to make biking safer.
-- [Safe Lane awarded prize money as a semi-finalist in the DCx challenge.](https://www.herox.com/DCx/update/2857){target="_blank"}
-- First presented at [Bike Hack Night X.](https://www.meetup.com/Transportation-Techies/events/256991003/){target="_blank"} [Presentation here.](https://bit.ly/predictingdirty){target="_blank"}
+- Co-creator of [Safe Lane](https://www.safelane.io/){target="_blank"}, an app that makes bike lanes safer using deep learning and public traffic feeds.
+- [Safe Lane took first prize in the 2019 DCx challenge.](https://octo.dc.gov/release/bowser-administration-announces-winners-dcx){target="_blank"}
+- I presented an early form of the idea at [Bike Hack Night X](https://bit.ly/predictingdirty){target="_blank"} on Jan-10, 2019 and then again at [Data Science DC](https://www.meetup.com/Data-Science-DC/events/259302275/){target="_blank"} on March 14, 2019.
 
-### [MPD Stop and Frisk Analysis](https://bfraiche.github.io/sptp/){target="_blank"}
+### MPD Stop and Frisk
 
-- High level analysis of DC's MPD stop and frisk practices. Still not certain why there no Ward 8.
-- [Someone else did a really excellent job diving into this date here](https://gwarrenn.github.io/Stop-and-Frisk-DC/){target="_blank"}
+- COMING SOON: Analysis of recently released stop and frisk data...
+- My first [high level analysis of DC's stop and frisk practices](https://bfraiche.github.io/sptp/){target="_blank"} from 2010-2016. Still not certain why there is no Ward 8.
+
+### Sack Jack
+
+- Organizer with [Sack Jack](http://www.sackjack.org/) trying to oust corrupt Councilmember, Jack Evans.
