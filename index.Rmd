@@ -4,15 +4,18 @@ title: "Projects"
 
 ### Safe Lane
 
-- Co-creator of [Safe Lane](https://www.safelane.io/){target="_blank"}, an app that makes bike lanes safer using deep learning and public traffic feeds.
-- [Safe Lane took first prize in the 2019 DCx challenge.](https://octo.dc.gov/release/bowser-administration-announces-winners-dcx){target="_blank"}
+- Co-founder of [Safe Lane](https://www.safelane.io/){target="_blank"}, an app that makes bike lanes safer using deep learning and public traffic feeds.
+- [Check out Safe Lane's blog](https://medium.com/safe-lane){target="_blank"}.
+- [Safe Lane took first prize in the 2019 DCx challenge](https://octo.dc.gov/release/bowser-administration-announces-winners-dcx){target="_blank"}.
 - I presented an early form of the idea at [Bike Hack Night X](https://bit.ly/predictingdirty){target="_blank"} on Jan-10, 2019 and then again at [Data Science DC](https://www.meetup.com/Data-Science-DC/events/259302275/){target="_blank"} on March 14, 2019.
 
-### MPD Stop and Frisk
+### Stop and Frisk Analysis
 
-- COMING SOON: Analysis of recently released stop and frisk data...
+- COMING SOON: Analysis of data released by DC's Metropolitan Police Department on stops that took place in July/August, 2019...
+- Stop and Frisk is officially a [Code For DC](https://codefordc.org/){target="_blank"} project! The project lives in this [repository](https://github.com/bfraiche/dc-stop-and-frisk){target="_blank"}. To collaborate, join the Code for DC Slack channel, `stop_and_frisk`.
 - My first [high level analysis of DC's stop and frisk practices](https://bfraiche.github.io/sptp/){target="_blank"} from 2010-2016. Still not certain why there is no Ward 8.
 
 ### Sack Jack
 
-- Organizer with [Sack Jack](http://www.sackjack.org/) trying to oust corrupt Councilmember, Jack Evans.
+- Organizer with [Sack Jack](http://www.sackjack.org/){target="_blank"} to oust corrupt DC Councilmember, Jack Evans.
+- Jack Evans [tendered his resignation](https://www.washingtonpost.com/local/dc-politics/dc-council-to-hold-hearing-on-expelling-jack-evans-over-ethics-violations/2020/01/06/c65ea0de-30b2-11ea-a053-dc6d944ba776_story.html){target="_blank"} from the DC Council on Jan-7, 2020.
