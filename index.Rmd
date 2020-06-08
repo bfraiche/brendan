@@ -11,12 +11,12 @@ title: "Projects"
 
 ### Stop and Frisk Analysis
 
-- COMING SOON: Analysis of data released by DC's Metropolitan Police Department on stops that took place in July/August, 2019...
+- IN PROGRESS: Analysis of data released by DC's Metropolitan Police Department on stops that took place in July/August, 2019...
 - Stop and Frisk is officially a [Code For DC](https://codefordc.org/){target="_blank"} project! The project lives in this [repository](https://github.com/bfraiche/dc-stop-and-frisk){target="_blank"}. To collaborate, join the Code for DC Slack channel, `stop_and_frisk`.
 - My first [high level analysis of DC's stop and frisk practices](https://bfraiche.github.io/sptp/){target="_blank"} from 2010-2016. Still not certain why there is no Ward 8.
 
 ### Sack Jack
 
 - Organizer with [Sack Jack](http://www.sackjack.org/){target="_blank"} to oust corrupt DC Councilmember, Jack Evans.
-- Jack Evans [tendered his resignation](https://www.washingtonpost.com/local/dc-politics/dc-council-to-hold-hearing-on-expelling-jack-evans-over-ethics-violations/2020/01/06/c65ea0de-30b2-11ea-a053-dc6d944ba776_story.html){target="_blank"} from the DC Council on Jan-7, 2020.
-- By resigning, Jack Evans triggered a special election set for summer 2020. [Jack Evans filed to run in that special election](https://www.cnn.com/2020/01/27/politics/jack-evans-will-run-for-seat-in-2020/index.html){target="_blank"} 10 days after resigning to avoid formal expulsion from the Counsil.
+- Jack Evans [tendered his resignation](https://www.washingtonpost.com/local/dc-politics/dc-council-to-hold-hearing-on-expelling-jack-evans-over-ethics-violations/2020/01/06/c65ea0de-30b2-11ea-a053-dc6d944ba776_story.html){target="_blank"} from the DC Council on Jan-7, 2020 in order to avoid formal expulsion from the Council.
+- [Jack Evans filed to run again](https://www.cnn.com/2020/01/27/politics/jack-evans-will-run-for-seat-in-2020/index.html){target="_blank"} 10 days after resigning. [Jack received around 3% of the vote in the Ward 2 Democratic primary](https://www.washingtonpost.com/local/dc-politics/dc-primary-results/2020/06/03/de33d982-a596-11ea-bb20-ebf0921f3bbd_story.html){target="_blank"}, finally sacking Jack.
