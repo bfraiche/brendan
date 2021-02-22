@@ -4,12 +4,12 @@ title: "About Me"
 
 - I am a data engineer at [Silectis](https://www.silect.is/){target="_blank"}.
 - Libra☀️/Pisces🌑/Gemini⬆.
-- I live in Washington, DC with [my wife](https://twitter.com/madelbean){target="_blank"} and our plants.
+- I live in Washington, DC with [my wife](https://twitter.com/madelbean){target="_blank"}, our plants, and our two cats.
 - [I tweet](https://twitter.com/NotFakeBrendan){target="_blank"}.
 - I code in Python and R.
-- [I write stuff about data science sometimes](https://www.silect.is/blog/2019/4/2/random-forest-in-spark-ml){target="_blank"}.
+- [I write stuff about data science sometimes](https://www.silect.is/blog/random-forest-models-in-spark-ml/){target="_blank"}.
 - I help organize the [DC Data Engieering meetup](https://www.meetup.com/DC-Data-Engineering/){target="_blank"}.
-- I frequent other local meetups such as: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"}, [DC Tech](https://www.meetup.com/DC-Tech-Meetup/){target="_blank"}, and [Transportation Techies](https://www.meetup.com/Transportation-Techies/){target="_blank"}.
+- I frequent other local meetups such as: [Data Science DC](https://www.meetup.com/Data-Science-DC/){target="_blank"} and [Transportation Techies](https://www.meetup.com/Transportation-Techies/){target="_blank"}.
 - I have silly tattoos. Here are two of my favorites: [shoulder rainbow guy](https://www.instagram.com/p/CEfgMebAK_D/){target="_blank"}, [traditional hotdog rose](https://www.instagram.com/p/Bwf4r4PBrms/){target="_blank"}.
 - [I backpack](https://www.mytravelmap.xyz/u/tw732217484972048384){target="_blank"}.
 - [I collect punk records](https://www.discogs.com/user/bfreehart/collection){target="_blank"}. I also play music sometimes.
